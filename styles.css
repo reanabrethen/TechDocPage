@@ -1,5 +1,12 @@
 body {
-    background-color: coral;
+    background-color: rgb(12, 28, 53);
+    color: whitesmoke;
+}
+a {
+    color: orangered;
+}
+a:hover {
+    color: rgb(207, 114, 114);
 }
 
 @media screen {
